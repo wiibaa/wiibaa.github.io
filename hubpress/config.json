@@ -4,7 +4,11 @@
     "repositoryName": "wiibaa.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Wiibaa thoughts"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Ichi"
+    "name": "ichi"
   }
 }
