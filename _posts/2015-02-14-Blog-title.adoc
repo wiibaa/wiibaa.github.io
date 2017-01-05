@@ -1,5 +1,6 @@
 = Blog title
-:hp-tags:Test, Tag2, TopTop
+:hp-tags: Test, Tag2, TopTop
+
 some content
 
 some more content
